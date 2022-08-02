@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id":1,
+      "title": "greetings",
+      "body": "hello world"
+    },
+    {
+      "id":2,
+      "title": "action",
+      "body": "travel"
+    }
+  ]
+}
